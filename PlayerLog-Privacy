@@ -1,0 +1,41 @@
+# Privacy Policy
+
+**PlayerLog** is built for families who want to track their kids' sports stats — nothing more.
+
+## Data We Collect
+
+PlayerLog stores the data you enter: player names, game dates, opponents, and sports statistics. This data is saved to your iCloud account via Apple's CloudKit service and syncs across your devices.
+
+## How Your Data Is Used
+
+Your data is used only to power the app. We do not analyze it, share it, sell it, or use it for advertising.
+
+## iCloud & CloudKit
+
+PlayerLog uses Apple's CloudKit to sync your data across devices signed into the same iCloud account. Your data is stored in your personal iCloud container and governed by Apple's Privacy Policy (apple.com/privacy). We do not have access to your iCloud data.
+
+## Data We Do Not Collect
+
+- We do not collect analytics or usage data
+- We do not collect advertising identifiers
+- We do not use third-party SDKs or tracking tools
+- We do not collect location data
+- We do not collect data from children beyond what you manually enter in the app
+
+## Children's Privacy
+
+PlayerLog is designed to track youth sports stats entered by parents or guardians. We do not knowingly collect personal information from children directly.
+
+## Data Deletion
+
+To delete your data, delete the app. Your iCloud data can be managed in Settings → [Your Name] → iCloud on your device.
+
+## Contact
+
+Questions? Reach us at roxannemcclurecreative@gmail.com
+
+## Changes to This Policy
+
+If this policy changes materially, we will update the date below.
+
+_Last updated: March 2026_
